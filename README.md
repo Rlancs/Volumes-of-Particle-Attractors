@@ -49,5 +49,3 @@ https://open.clemson.edu/all_theses/2002/ - Particle simulation, with reference 
 https://doi.org/10.1002/vis.263 - Very helpful/interesting stuff on attractors (and cutters, though irrelevant for this)  
 https://github.com/nothings/stb/blob/master/stb_image.h  
 https://free3d.com/3d-model/bird-v1--282209.html (Personal Use License)
-
-Sphere created using Blender
